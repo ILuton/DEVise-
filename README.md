@@ -4,17 +4,15 @@
 
   ## Table of Contents
 
-  1. [Description](#description)
-
-  2. [Installation Instructions](#installation-instructions)
-
-  3. [Usage Information](#usage-information)
-
-  4. [Contributing](#contributing)
-
-  5. [Tests](#tests)
-
-  6. [Questions](#questions)
+- [DEVise](#devise)
+  - [Table of Contents](#table-of-contents)
+  - [Description](#description)
+  - [Installation Instructions](#installation-instructions)
+  - [Usage Information](#usage-information)
+  - [Contributing](#contributing)
+  - [Tests](#tests)
+  - [License](#license)
+  - [Questions](#questions)
 
   ## Description
 
@@ -26,7 +24,7 @@
 
   ## Usage Information
 
-  To use DEVise, visit the [live deployment](https://devisehub.herokuapp.com/), or set up the server configuration in the local repository and visit your localhost deployment for development purposes.
+  To use DEVise, visit the [live deployment](https://devise.herokuapp.com/), or set up the server configuration in the local repository and visit your localhost deployment for development purposes.
 
   When you reach the landing page, you have the option of logging in:
 
